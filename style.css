@@ -1,0 +1,43 @@
+body{
+    font-family: 'Pushster', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: blanchedalmond;
+    
+}
+h3{
+    color: blanchedalmond
+   
+}
+p{
+    color: rgb(67, 29, 236);
+}
+.bc{
+    color: brown;
+
+}
+section{
+    display: flex;
+}
+.hw{
+    width: 50%;
+    padding-left: 5%;
+}
+.hw img{
+    width: 80%;
+}
+.lb{
+    font-size: 150%;
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+     border-radius: 15% ;
+
+}
+.tp{
+    background-image: url(images/tp1.png);
+    background-repeat: none;
+}
